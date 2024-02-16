@@ -1,1 +1,1 @@
-A clone of the Simple Clone for practicing web development skills.
+# Basic Landing Page Using HTML & CSS
