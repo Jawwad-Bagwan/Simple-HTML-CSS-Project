@@ -2,7 +2,7 @@
 
 #A clone of the Simple Clone for practicing web development skills.
 
-## Technologies used :
+# Technologies used :
   HTML
   CSS
 
