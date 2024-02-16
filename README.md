@@ -1,6 +1,6 @@
-## Basic Landing Page Using HTML & CSS.
+# Basic Landing Page Using HTML & CSS.
 
-#A clone of the Simple Clone for practicing web development skills.
+# A clone of the Simple Clone for practicing web development skills.
 
 # Technologies used :
   HTML
